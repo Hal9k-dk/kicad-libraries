@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MRB3205
+D ILI9341 controller, SPI TFT LCD Display, 34-pin breakout PCB, XPT2046 touch controller
+K driver display
+F http://www.lcdwiki.com/3.2inch_16BIT_Module_ILI9341_SKU:MRB3205
+$ENDCMP
+#
+#End Doc Library
