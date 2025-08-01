@@ -1,0 +1,227 @@
+(footprint "CR2032_Battery_Holder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.05 1.45 0)
+		(layer "F.SilkS")
+		(uuid "f43cd313-ed49-483a-9408-3b2406a09371")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CR2032_Battery_Holder"
+		(at -0.05 -1.85 0)
+		(layer "F.Fab")
+		(uuid "96e8e2ad-1531-4938-b1d6-0c681bb74241")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57b28213-588e-4fd4-8fe3-94e1f6558971")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca571aca-918f-475d-8120-d2d0d39fa606")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -14.3 -3.55)
+		(end -11.05 -3.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "89cef199-ede7-4499-b707-0364c3d7f56c")
+	)
+	(fp_line
+		(start -14.3 3.6)
+		(end -14.3 -3.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b83345b9-1072-4e11-8f6f-5b3c110fe53a")
+	)
+	(fp_line
+		(start -13 4.8)
+		(end -11.5 4.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b909ee96-a0c3-4994-bd24-519005e9bac5")
+	)
+	(fp_line
+		(start -12.25 4.05)
+		(end -12.25 5.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4ccdf0b7-8179-4720-91cc-605d44ae013c")
+	)
+	(fp_line
+		(start -11.05 -8.05)
+		(end 11.2 -8.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "341d1292-9054-4039-ac48-b74bfebed40b")
+	)
+	(fp_line
+		(start -11.05 -3.55)
+		(end -11.05 -8.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3841c1bb-2f88-426b-b4b3-d38afabbf3dc")
+	)
+	(fp_line
+		(start -11.05 3.6)
+		(end -14.3 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4a5fd73f-69f4-4248-8e54-92abee362fbd")
+	)
+	(fp_line
+		(start -11.05 6.35)
+		(end -11.05 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bf6119c9-64a9-4054-8f92-4fc3084504fa")
+	)
+	(fp_line
+		(start -9.3 8.1)
+		(end -11.05 6.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f6b8ac03-fdd6-4c12-b734-bbbb6f1cd7c6")
+	)
+	(fp_line
+		(start 11.2 -8.05)
+		(end 11.2 -3.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fbeb9917-7772-4c85-8773-6a76518c9191")
+	)
+	(fp_line
+		(start 11.2 -3.55)
+		(end 14.45 -3.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9af27357-3960-4ac7-bf24-9bd4dd87966e")
+	)
+	(fp_line
+		(start 11.2 3.6)
+		(end 11.2 8.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "72aa7537-60ce-4b9d-aaf5-5aad8a5d2bc5")
+	)
+	(fp_line
+		(start 11.2 8.1)
+		(end -9.3 8.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "51f87e08-632c-4a58-80db-c9df637af162")
+	)
+	(fp_line
+		(start 14.45 -3.55)
+		(end 14.45 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c134f8b1-3efe-4d49-bcec-b370e03b8ce5")
+	)
+	(fp_line
+		(start 14.45 3.6)
+		(end 11.2 3.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e684682a-475e-4819-af77-ab3b1c58177a")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 10 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2433d73d-62de-49f6-87b7-e4c3d9717569")
+	)
+	(pad "1" smd rect
+		(at -14.5 -0.05)
+		(size 2.5 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "72db967a-8ae0-410b-a8f5-720fda06db44")
+	)
+	(pad "2" smd rect
+		(at 14.7 0)
+		(size 2.5 3.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "828ab63b-71f5-4ee9-a869-2c1fa20e8366")
+	)
+	(embedded_fonts no)
+)
